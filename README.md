@@ -1,0 +1,2 @@
+# Extracting_Aha_moment_from_Qlearning_agent_through_IKE-XAI_method.ip
+This repository presents the a jupyter notebook presenting the methodology IKE-XAI for Implicit Knowledge Extraction with eXplainable Artificial Intelligence,  related to the article :   Ikram Chraibi Kaadoud, Adrien Bennetot,Barbara Mawhin, Vicky Charisi, Natalia Díaz-Rodríguez, Explaining Aha! moments in artificial agents through IKE-XAI: Implicit Knowledge Extraction for eXplainable AI, Neural Networks, 2022.
