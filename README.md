@@ -61,6 +61,10 @@ The main file is a jupyter notebook that can also be used as a Google colab file
 
 For any question, please contact: ikram.chraibi-kaadoud@imt-atlantique.fr
 
+**Credit authorship contribution statement: 
+***Ikram Chraibi Kaadoud:*** Implementation of all project parts (Reinforcement Learning, Recurrent neural network with LSTM, XAI)
+***Adrien Bennetot:*** Implementation of the Reinforcement Learning part
+
 ### How to cite this repository ? ### 
 
 @misc{chraibiKaadoud2022XAI_RL_Github,
