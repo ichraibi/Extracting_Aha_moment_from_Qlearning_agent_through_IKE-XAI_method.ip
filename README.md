@@ -6,9 +6,7 @@ last major update of readme: August 2022
 
 This repository presents the a jupyter notebook presenting the methodology Implicit Knowledge Extraction with eXplainable Artificial Intelligence, IKE-XAI, 
 related to the article : 
-
-Ikram Chraibi Kaadoud, Adrien Bennetot,Barbara Mawhin, Vicky Charisi, Natalia Díaz-Rodríguez, Explaining Aha! moments in artificial agents through IKE-XAI: Implicit Knowledge Extraction for eXplainable AI, Neural Networks, 2022.
-Link: to be coming
+CHRAIBI KAADOUD, Ikram , BENNETOT, Adrien, MAWHIN, Barbara, DIAZ-RODRIGUEZ, Natalia, Explaining <i>Aha!</i> moments in artificial agents through IKE-XAI: Implicit Knowledge Extraction for eXplainable AI. <i>Neural Networks</i>, 2022,https://doi.org/10.1016/j.neunet.2022.08.002
 
 #### Abstract of the article: 
 During the learning process, a child develops a mental representation of the task he or she is learning. A Machine Learning algorithm develops also a latent representation of the task it learns. We investigate the development of the knowledge construction of an artificial agent through the analysis of its behavior, i.e., its sequences of moves while learning to perform <b>the Tower of Hanoï (TOH)</b> task. The TOH is a wellknown task in experimental contexts to study the problem-solving processes and one of the fundamental processes of children’s knowledge construction about their world. 
@@ -28,7 +26,7 @@ Explainable AI, Reinforcement Learning, Cognitive modeling, Developmental roboti
 <img src="Figures/XAI_RL_KG.png" alt="drawing" width="700"/>
 </p>
 <p align = "center">
- Figure 1 - Conceptual summary of current works and related fields: Knowledge graph of all contributed elements (in green) to explain sequential problem-solving and domain disciplines (in red) that inform IKE-XAI method. (Figure extracted from the original article)
+ Figure 1 of Chraibi Kaadoud et al (2022)- Conceptual summary of current works and related fields: Knowledge graph of all contributed elements (in green) to explain sequential problem-solving and domain disciplines (in red) that inform IKE-XAI method. (Figure extracted from the original article)
 </p>
 
 
@@ -36,7 +34,7 @@ Explainable AI, Reinforcement Learning, Cognitive modeling, Developmental roboti
 ### How and what environment to install? ###
 
 * Summary of set up
-The main file is a jupyter notebook that can also be used as a Google colab file: https://colab.research.google.com/?hl=fr
+    The main file is a jupyter notebook that can be used locally (pay attention to the parameters) and as a Google colab file: https://colab.research.google.com/?hl=fr
 
 * Dependencies
     pip3 install tensorflow==2.0 : if not, tensorflow.callback.Callbacks does not work
@@ -61,9 +59,9 @@ The main file is a jupyter notebook that can also be used as a Google colab file
 
 For any question, please contact: ikram.chraibi-kaadoud@imt-atlantique.fr
 
-**Credit authorship contribution statement: 
-***Ikram Chraibi Kaadoud:*** Implementation of all project parts (Reinforcement Learning, Recurrent neural network with LSTM, XAI)
-***Adrien Bennetot:*** Implementation of the Reinforcement Learning part
+**Credit authorship contribution statement: <br/>
+***Ikram Chraibi Kaadoud:*** Implementation of all project parts (Reinforcement Learning, Recurrent neural network with LSTM, XAI) <br/>
+***Adrien Bennetot:*** Implementation of the Reinforcement Learning part <br/>
 
 ### How to cite this repository ? ### 
 
@@ -78,4 +76,4 @@ For any question, please contact: ikram.chraibi-kaadoud@imt-atlantique.fr
 
 OR 
 
-Ikram Chraibi Kaadoud, Adrien Bennetot, Barbara Mawhin, Vicky Charisi, Natalia Díaz-Rodríguez, Extracting Aha moment from Qlearning agent through IKE-XAI method, GitHub repository, 2022.
+Ikram Chraibi Kaadoud, Adrien Bennetot, Barbara Mawhin, Vicky Charisi, Natalia Díaz-Rodríguez, Extracting Aha moment from Qlearning agent through IKE-XAI method, <i>GitHub repository</i>, 2022.

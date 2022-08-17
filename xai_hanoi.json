@@ -1,6 +1,6 @@
 {
   "clustering_range_min": 5,
-  "clustering_range_max": 7,
+  "clustering_range_max": 100,
   "nb_patterns" : 1000,
   "debug": 0
 
