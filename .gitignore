@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#local documents and repo to ignore
+Results/
+
+
 # C extensions
 *.so
 
