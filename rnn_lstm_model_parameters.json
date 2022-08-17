@@ -1,0 +1,25 @@
+{
+  "nb_sequences" : 1000,
+  "keras_model_rnn_backup_file": "keras_model_rnn_backup_file.h5",
+
+  "epochs" : 10,
+  "nb_hidden_layer" : 1,
+  "nb_LSTM_cell_per_hidden_layer": 8,
+  "debug": 0,
+
+  "keras_model_structure_png_file": "keras_model_structure.png",
+  "history_losses_png_file": "history_losses.png",
+  "losses_by_epoch_png_file": "losses_by_epoch_for_train_and_val.png",
+  "accuracy_by_epoch_png_file": "accuracy_by_epoch_for_train_and_val.png",
+
+  "rnn_lstm_model_backup_file": "rnn_lstm_model_backup.h5",
+
+  "test_sequences_json_file": "test_sequences.json",
+  "test_predictions_and_HS_json_file": "test_predictions_and_hidden_states.json",
+
+  "rnn_weights_file": "rnn_weights.txt",
+  "rnn_for_hidden_states_LSTM_layer_weights_file": "rnn_lstm_layer_weights.txt",
+
+  "analysis_of_artificial_agent_behavior":1,
+  "artificial_agent_behavior_data_set": "dict_sequences_of_moves_per_training_session.json"
+}
