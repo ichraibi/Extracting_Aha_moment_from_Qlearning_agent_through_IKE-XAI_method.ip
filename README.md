@@ -5,8 +5,10 @@ last major update of readme: August 2022
 ### What is this repository for? ###
 
 This repository presents the a jupyter notebook presenting the methodology Implicit Knowledge Extraction with eXplainable Artificial Intelligence, IKE-XAI, 
-related to the article : 
-CHRAIBI KAADOUD, Ikram , BENNETOT, Adrien, MAWHIN, Barbara, DIAZ-RODRIGUEZ, Natalia, Explaining <i>Aha!</i> moments in artificial agents through IKE-XAI: Implicit Knowledge Extraction for eXplainable AI. <i>Neural Networks</i>, 2022,https://doi.org/10.1016/j.neunet.2022.08.002
+related to the article : <br>
+<b>[Chraibi Kaadoud et al, 2022]</b> : <br>
+CHRAIBI KAADOUD, Ikram , BENNETOT, Adrien, MAWHIN, Barbara, DIAZ-RODRIGUEZ, Natalia, Explaining  <i>Aha!</i> moments in artificial agents through IKE-XAI: Implicit Knowledge Extraction for eXplainable AI. <i>Neural Networks</i>, 2022, https://doi.org/10.1016/j.neunet.2022.08.002
+
 
 #### Abstract of the article: 
 During the learning process, a child develops a mental representation of the task he or she is learning. A Machine Learning algorithm develops also a latent representation of the task it learns. We investigate the development of the knowledge construction of an artificial agent through the analysis of its behavior, i.e., its sequences of moves while learning to perform <b>the Tower of Hanoï (TOH)</b> task. The TOH is a wellknown task in experimental contexts to study the problem-solving processes and one of the fundamental processes of children’s knowledge construction about their world. 
